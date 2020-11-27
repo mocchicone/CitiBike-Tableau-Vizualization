@@ -6,7 +6,7 @@ CitiBike data from June 2020 through September 2020 was analyzed to determine tr
 
 •	Service use has been increasing month over month although the overall increase was higher in men (+43%) than in women (+27%)  
 •	Women are underrepresented at the top 25 start stations, ranging from 27% to 43% use when compared to men.  
-•	Age data is in line with the local demographic, with median age of user similar to median age of zip code in which the station resides. 
+•	Age data indicates that ridership numbers peak at 30 years old for both genders and both subscription types. 
 
 ## Data Collection
 Citibike data was collected from June 2020 through September 2020 for New York city and consisted of 8.8 million records.  Records were segmented by subscription type, gender, age, trip duration, start location, and end location.  The data was collected from [CitiBike](https://www.citibikenyc.com/system-data).
