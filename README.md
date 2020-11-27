@@ -9,4 +9,4 @@ CitiBike data from June 2020 through September 2020 was analyzed to determine tr
 •	Age data is in line with the local demographic, with median age of user similar to median age of zip code in which the station resides. 
 
 ## Data Collection
-Citibike data was collected from June 2020 through September 2020 for New York city and consisted of 8.8 million records.  Records were segmented by subscription type, gender, age, trip duration, start location, and end location.  The data comes from [CitiBike](https://www.citibikenyc.com/system-data)
+Citibike data was collected from June 2020 through September 2020 for New York city and consisted of 8.8 million records.  Records were segmented by subscription type, gender, age, trip duration, start location, and end location.  The data was collected from [CitiBike](https://www.citibikenyc.com/system-data)
