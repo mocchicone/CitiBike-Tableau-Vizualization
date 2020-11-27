@@ -24,12 +24,9 @@ Women are underrrepresented at CitiBike's top 25 start stations - raning from 27
 
 ### 1. Age Analysis
 
-Ridership numbers peak at around 30 years old for both men and women.
+Ridership numbers peak at around 30 years old for both men and women.  Ride duration tends to decrease with age, moreso for men.
 
 ![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age1.PNG)
-
-Ride duration tends to decrease with age, moreso for men.
-
 ![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age3.PNG)
 
 Contact: Michael Occhicone at mpocchicoe@gmail.com
