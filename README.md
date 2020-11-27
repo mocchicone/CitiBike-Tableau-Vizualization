@@ -18,4 +18,4 @@ There were marked differences when looking at utilization trends across gender w
 ![Gender2](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender2.png)
 
 Women are underrrepresented at CitiBike's top 25 start stations.
-![Gender3](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender3.PNG)
+![Gender6](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender6.png)
