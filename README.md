@@ -9,13 +9,26 @@ CitiBike data from June 2020 through September 2020 was analyzed to determine tr
 •	Age data is in line with the local demographic, with median age of user similar to median age of zip code in which the station resides. 
 
 ## Data Collection
-Citibike data was collected from June 2020 through September 2020 for New York city and consisted of 8.8 million records.  Records were segmented by subscription type, gender, age, trip duration, start location, and end location.  The data was collected from [CitiBike](https://www.citibikenyc.com/system-data)
+Citibike data was collected from June 2020 through September 2020 for New York city and consisted of 8.8 million records.  Records were segmented by subscription type, gender, age, trip duration, start location, and end location.  The data was collected from [CitiBike](https://www.citibikenyc.com/system-data).
 
 ## Key Findings
 ### 1. Gender Differences
 
-There were marked differences when looking at utilization trends across gender with men utilizing the service at higher rates across all both subscription types.  
+There were marked differences when looking at utilization trends across gender with men utilizing the service at higher rates across both subscription types.
+
 ![Gender2](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender2.png)
 
-Women are underrrepresented at CitiBike's top 25 start stations.
+Women are underrrepresented at CitiBike's top 25 start stations - raning from 27% to 43% use when compared to men.
 ![Gender6](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender6.png)
+
+### 1. Age Analysis
+
+Ridership numbers peak at around 30 years old for both men and women.   
+![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age1.PNG)
+
+Ride duration tends to decrease with age, moreso for men. 
+![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age3.PNG)
+
+Contact: Michael Occhicone at mpocchicoe@gmail.com
+
+The Tableau storyboard can be found here: [CitiBike Tableau Analysis](https://public.tableau.com/profile/mike.occhicone#!/vizhome/CitiBike_Data_Analysis/GenderandAge)
