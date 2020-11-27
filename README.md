@@ -15,4 +15,7 @@ Citibike data was collected from June 2020 through September 2020 for New York c
 ### 1. Gender Differences
 
 There were marked differences when looking at utilization trends across gender with men utilizing the service at higher rates across all both subscription types.  
-![Gender1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender2.png)
+![Gender2](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender2.png)
+
+Women are underrrepresented at CitiBike's top 25 start stations.
+![Gender3](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender3.png)
