@@ -1,2 +1,2 @@
 # CitiBike-Tableau-Vizualization
-Data analysis and visualization project using CitiBike 2020 dataset.
+Data analysis and visualization project using CitiBike's 2020 large dataset (8.8 million records).
