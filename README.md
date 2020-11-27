@@ -1,5 +1,5 @@
 # CitiBike-Tableau-Vizualization
-Data analysis and visualization project using CitiBike's New York City dataset for 2020 (8.8 million records).
+Data analysis and visualization project using CitiBike's New York City dataset for 2020 (8.8 million records).  The Tableau storyboard can be found here: [CitiBike Tableau Analysis](https://public.tableau.com/profile/mike.occhicone#!/vizhome/CitiBike_Data_Analysis/GenderandAge)
 
 ## Executive Summary
 CitiBike data from June 2020 through September 2020 was analyzed to determine trends.  Key findings include:
@@ -14,5 +14,5 @@ Citibike data was collected from June 2020 through September 2020 for New York c
 ## Key Findings
 ### 1. Gender Differences
 
-There were marked differences when looking at utilization trends across gender with men utilizing the service at higher rates across all both subscription types. 
+There were marked differences when looking at utilization trends across gender with men utilizing the service at higher rates across all both subscription types.  
 ![Gender1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender2.png)
