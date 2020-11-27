@@ -29,6 +29,6 @@ Ridership numbers peak at around 30 years old for both men and women.  Ride dura
 ![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age1.PNG)
 ![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age3.PNG)
 
-Contact: Michael Occhicone at mpocchicoe@gmail.com
+Contact: Michael Occhicone at mpocchicone@gmail.com
 
 The Tableau storyboard can be found here: [CitiBike Tableau Analysis](https://public.tableau.com/profile/mike.occhicone#!/vizhome/CitiBike_Data_Analysis/GenderandAge)
