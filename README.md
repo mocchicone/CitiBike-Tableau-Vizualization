@@ -19,14 +19,17 @@ There were marked differences when looking at utilization trends across gender w
 ![Gender2](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender2.png)
 
 Women are underrrepresented at CitiBike's top 25 start stations - raning from 27% to 43% use when compared to men.
+
 ![Gender6](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Gender6.png)
 
 ### 1. Age Analysis
 
-Ridership numbers peak at around 30 years old for both men and women.   
+Ridership numbers peak at around 30 years old for both men and women.
+
 ![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age1.PNG)
 
-Ride duration tends to decrease with age, moreso for men. 
+Ride duration tends to decrease with age, moreso for men.
+
 ![Age1](https://github.com/mocchicone/CitiBike-Tableau-Vizualization/blob/main/Images/Age3.PNG)
 
 Contact: Michael Occhicone at mpocchicoe@gmail.com
